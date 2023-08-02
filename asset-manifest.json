@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/demon-slayer-profile/static/css/main.4f500f5f.css",
+    "main.js": "/demon-slayer-profile/static/js/main.b7bd9b59.js",
+    "static/js/787.0e40b0da.chunk.js": "/demon-slayer-profile/static/js/787.0e40b0da.chunk.js",
+    "static/media/Kokushibo-2.webp": "/demon-slayer-profile/static/media/Kokushibo-2.182cb357da7f41b84876.webp",
+    "static/media/Kokushibo.mp4": "/demon-slayer-profile/static/media/Kokushibo.db5c4a5675a275a049d8.mp4",
+    "static/media/blood-crow.ttf": "/demon-slayer-profile/static/media/blood-crow.796b9fa418a22f07365c.ttf",
+    "static/media/Kokushibo-3.webp": "/demon-slayer-profile/static/media/Kokushibo-3.e6c293f5450b76eb0f1b.webp",
+    "static/media/Hashira.webp": "/demon-slayer-profile/static/media/Hashira.3422af01a293cd1ba5e6.webp",
+    "static/media/Douma.webp": "/demon-slayer-profile/static/media/Douma.514e8340c2f0a11e049a.webp",
+    "static/media/Hantengu.webp": "/demon-slayer-profile/static/media/Hantengu.b57519bdef1822ae4d67.webp",
+    "static/media/Daki.webp": "/demon-slayer-profile/static/media/Daki.32fc48b51a218bd20c7c.webp",
+    "static/media/Akaza.webp": "/demon-slayer-profile/static/media/Akaza.7088561fc0d6b73b53e3.webp",
+    "static/media/Kokushibo.webp": "/demon-slayer-profile/static/media/Kokushibo.1ed3ed633f124abe94f7.webp",
+    "static/media/uppermoon-2.webp": "/demon-slayer-profile/static/media/uppermoon-2.02b0e984deb81437fa95.webp",
+    "static/media/Gyokko.webp": "/demon-slayer-profile/static/media/Gyokko.4349059b89b8d89e406b.webp",
+    "index.html": "/demon-slayer-profile/index.html",
+    "main.4f500f5f.css.map": "/demon-slayer-profile/static/css/main.4f500f5f.css.map",
+    "main.b7bd9b59.js.map": "/demon-slayer-profile/static/js/main.b7bd9b59.js.map",
+    "787.0e40b0da.chunk.js.map": "/demon-slayer-profile/static/js/787.0e40b0da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f500f5f.css",
+    "static/js/main.b7bd9b59.js"
+  ]
+}
