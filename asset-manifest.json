@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/demon-slayer-profile/static/css/main.82096c69.css",
-    "main.js": "/demon-slayer-profile/static/js/main.2cca0f95.js",
+    "main.js": "/demon-slayer-profile/static/js/main.625449d2.js",
     "static/js/787.0e40b0da.chunk.js": "/demon-slayer-profile/static/js/787.0e40b0da.chunk.js",
     "static/media/Kokushibo-2.webp": "/demon-slayer-profile/static/media/Kokushibo-2.182cb357da7f41b84876.webp",
     "static/media/Kokushibo.mp4": "/demon-slayer-profile/static/media/Kokushibo.db5c4a5675a275a049d8.mp4",
@@ -17,11 +17,11 @@
     "static/media/Gyokko.webp": "/demon-slayer-profile/static/media/Gyokko.4349059b89b8d89e406b.webp",
     "index.html": "/demon-slayer-profile/index.html",
     "main.82096c69.css.map": "/demon-slayer-profile/static/css/main.82096c69.css.map",
-    "main.2cca0f95.js.map": "/demon-slayer-profile/static/js/main.2cca0f95.js.map",
+    "main.625449d2.js.map": "/demon-slayer-profile/static/js/main.625449d2.js.map",
     "787.0e40b0da.chunk.js.map": "/demon-slayer-profile/static/js/787.0e40b0da.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.82096c69.css",
-    "static/js/main.2cca0f95.js"
+    "static/js/main.625449d2.js"
   ]
 }
