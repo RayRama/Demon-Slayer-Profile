@@ -20,7 +20,7 @@ export const Home = () => {
         className="right-triangle items-end justify-center flex"
         onClick={() => navigationHandler("uppermoon")}
       >
-        <h1 className="uppermoon-font text-5xl md:mb-10 mb-10">SLAYER</h1>
+        <h1 className="uppermoon-font text-5xl md:mb-10 mb-20">SLAYER</h1>
       </div>
     </div>
   );
