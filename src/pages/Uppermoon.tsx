@@ -1,6 +1,5 @@
 import React from "react";
 import { Outlet, useLocation, useNavigate } from "react-router-dom";
-import wall from "../assets/uppermoon/uppermoon.jpg";
 
 import { uppermoons } from "../data/uppermoons";
 // import useLazyLoadBackgroundImages from "../hooks/useLazyLoadBackgroundImages";
